@@ -3,3 +3,10 @@
   hosts: localhost
   roles:
     - role: aaronpederson.ansible-php7
+
+  vars:
+    php_modules: []
+    php_composer: no
+    php_documentor: no
+    php_documentor_validate_certificates: yes
+    php_phpunit: no
