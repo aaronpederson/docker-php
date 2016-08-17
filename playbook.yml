@@ -2,7 +2,7 @@
 - connection: local
   hosts: localhost
   roles:
-    - role: aaronpederson.ansible-php7
+    - role: telusdigital.ansible-php7
 
   vars:
     php_composer: no
