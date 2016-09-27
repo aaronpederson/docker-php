@@ -1,0 +1,17 @@
+---
+dependencies:
+
+galaxy_info:
+  author: "Aaron Pederson"
+  company: "TELUS digital"
+  description: "PHP 7 is the latest version of general-purpose scripting language that is popular in web development."
+  license: MIT
+  platforms:
+    - name: Ubuntu
+      versions:
+      - precise
+      - trusty
+      - utopic
+  galaxy_tags:
+    - development
+    - web
