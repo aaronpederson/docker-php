@@ -2,7 +2,7 @@
 
 [PHP](https://www.php.org) - Is a popular general-purpose scripting language that is popular in web development.
 
-[![Platforms](http://img.shields.io/badge/platforms-ubuntu-lightgrey.svg?style=flat)](#)
+![Platforms](http://img.shields.io/badge/platforms-ubuntu-lightgrey.svg?style=flat)[![](https://images.microbadger.com/badges/image/aaronpederson/php.svg)](https://microbadger.com/images/aaronpederson/php "Get your own image badge on microbadger.com")
 
 Tunables
 --------
